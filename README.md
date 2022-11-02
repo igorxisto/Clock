@@ -1,2 +1,2 @@
 # Clock
- relógio
+ relógio feito com javascript
